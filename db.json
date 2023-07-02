@@ -1,0 +1,10 @@
+{
+  "user": [
+    {
+      "userName": "abc",
+      "emailId": "xyz@mail",
+      "id": 1
+    }
+  ],
+  "appointment": []
+}
